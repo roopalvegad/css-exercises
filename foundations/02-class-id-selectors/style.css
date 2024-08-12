@@ -1,0 +1,25 @@
+/*style.css*/
+
+.pinkbkd{
+    background-color:pink;
+}
+
+
+.newfont{
+    font-family: sans-serif;
+}
+
+.font24{
+    font-size: 24px;
+}
+
+#largeblue{
+    font-size: 36px;
+    color: blue;
+}
+
+#greenbold{
+    background-color: rgb(174, 253, 94);
+    font-weight: 600;
+    font-size: 24px;
+}
